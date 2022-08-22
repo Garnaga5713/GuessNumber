@@ -1,0 +1,8 @@
+C:\Users\Lenovo\OneDrive\Робочий стіл\GuessNumber\GuessNumber\bin\Debug\GuessNumber.exe.config
+C:\Users\Lenovo\OneDrive\Робочий стіл\GuessNumber\GuessNumber\bin\Debug\GuessNumber.exe
+C:\Users\Lenovo\OneDrive\Робочий стіл\GuessNumber\GuessNumber\bin\Debug\GuessNumber.pdb
+C:\Users\Lenovo\OneDrive\Робочий стіл\GuessNumber\GuessNumber\obj\Debug\GuessNumber.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Робочий стіл\GuessNumber\GuessNumber\obj\Debug\GuessNumber.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\OneDrive\Робочий стіл\GuessNumber\GuessNumber\obj\Debug\GuessNumber.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Робочий стіл\GuessNumber\GuessNumber\obj\Debug\GuessNumber.exe
+C:\Users\Lenovo\OneDrive\Робочий стіл\GuessNumber\GuessNumber\obj\Debug\GuessNumber.pdb
