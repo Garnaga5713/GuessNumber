@@ -41,7 +41,7 @@ namespace GuessNumber
                 {
                     Console.WriteLine("diapason: " + min_num + "-" + max_num);
 
-                    if (User[i, 1] == "n")//is user is not bot
+                    if (User[i, 1] == "n")//if user is not bot
                     {
                         Console.Write(User[i, 0] + " your number: ");
                         userTry = int.Parse(Console.ReadLine());
